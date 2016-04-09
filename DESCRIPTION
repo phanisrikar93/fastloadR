@@ -7,7 +7,9 @@ Author: Phani Srikar Edupuganti
 Maintainer: phanisrikar93ume@gmail.com
 Description: Currently specific to Teradata, fastloadR aims to make
 	loading local data into database more interactive, faster and simpler.
-Depends: 
+Depends:
 	R (>= 3.2.0)
 License: GPL-2
 LazyData: TRUE
+URL: https://github.com/phanisrikar93/fastloadR
+BugReports: https://github.com/phanisrikar93/fastloadR/issues
